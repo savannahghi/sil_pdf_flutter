@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
-import 'package:pdf_flutter/pdf_flutter.dart';
+import 'package:pdf_flutter/sil_pdf_flutter.dart';
 
 void main() => runApp(PdfApp());
 
